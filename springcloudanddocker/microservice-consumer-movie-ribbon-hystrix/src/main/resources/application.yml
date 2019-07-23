@@ -1,0 +1,9 @@
+server:
+  port: 8703
+spring:
+  application:
+    name: microservice-consumer-movie-ribbon-hystrix
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8671/eureka/

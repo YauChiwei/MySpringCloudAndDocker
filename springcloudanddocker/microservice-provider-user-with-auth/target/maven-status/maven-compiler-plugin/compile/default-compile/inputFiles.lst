@@ -1,0 +1,7 @@
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-provider-user-with-auth/src/main/java/com/teecon/microservice/ProviderUserAuthApplication.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-provider-user-with-auth/src/main/java/com/teecon/microservice/security/WebSecurity.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-provider-user-with-auth/src/main/java/com/teecon/microservice/security/SecurityUser.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-provider-user-with-auth/src/main/java/com/teecon/microservice/security/CustomUserDetailsService.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-provider-user-with-auth/src/main/java/com/teecon/microservice/controller/UserController.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-provider-user-with-auth/src/main/java/com/teecon/microservice/model/User.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-provider-user-with-auth/src/main/java/com/teecon/microservice/dao/UserRepository.java

@@ -1,0 +1,5 @@
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-ribbon-customizing/src/main/java/com/teecon/microservice/consumer/ConsumerMoviewApplication.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-ribbon-customizing/src/main/java/com/teecon/microservice/consumer/controller/MoviewController.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-ribbon-customizing/src/main/java/com/teecon/microservice/consumer/config/TestConfiguration.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-ribbon-customizing/src/main/java/com/teecon/microservice/consumer/pojo/User.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-ribbon-customizing/src/main/java/com/teecon/microservice/consumer/config/RibbonConfig.java

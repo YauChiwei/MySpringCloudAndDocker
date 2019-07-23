@@ -1,0 +1,7 @@
+com/teecon/microservice/controller/UserController.class
+com/teecon/microservice/security/WebSecurity.class
+com/teecon/microservice/ProviderUserAuthApplication.class
+com/teecon/microservice/security/SecurityUser.class
+com/teecon/microservice/dao/UserRepository.class
+com/teecon/microservice/security/CustomUserDetailsService.class
+com/teecon/microservice/model/User.class

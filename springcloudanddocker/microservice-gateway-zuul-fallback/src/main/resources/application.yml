@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: microservice-gateway-zuul-fallback
+server:
+  port: 8903
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8671/eureka
+management:
+  endpoints:
+    web:
+      exposure:
+        include: routes,filters
+zuul:
+  ribbon:
+    eager-load:
+      enabled: true

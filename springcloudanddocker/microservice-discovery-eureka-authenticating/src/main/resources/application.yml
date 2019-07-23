@@ -1,0 +1,12 @@
+server:
+  port: 8673
+security:
+  basic:
+    enabled: true
+  user:
+    name: user
+    password: 123456
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://user:123456@localhost:8673/eureka

@@ -1,0 +1,12 @@
+server:
+  port: 8705
+spring:
+  application:
+    name: microservice-consumer-movie-ribbon-customizing-properties
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8671/eureka/
+microservice-provider-user-instance:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule

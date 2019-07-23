@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: microservice-gateway-zuul-filter
+server:
+  port: 8902
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8671/eureka
+management:
+  endpoints:
+    web:
+      exposure:
+        include: routes,filters
+#zuul:
+#  ignored-services: '*'
+#  routes:
+#    microservice-provider-user:
+#      path: /users/**
+#      sensitiveHeaders:
+#        - Cookies,Set-Cookies,Authorization
+#      url: https://downstream
+#logging:
+#  level:
+#    com.netflix: INFO

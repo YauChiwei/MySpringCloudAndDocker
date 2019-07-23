@@ -1,0 +1,9 @@
+server:
+  port: 8800
+spring:
+  application:
+    name: microservice-consumer-movie-feign
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8671/eureka/

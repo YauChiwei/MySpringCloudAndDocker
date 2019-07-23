@@ -1,0 +1,4 @@
+com/teecon/microservice/consumer/ConsumerMovieHystrixApplication.class
+com/teecon/microservice/consumer/exception/MyBusinessException.class
+com/teecon/microservice/consumer/pojo/User.class
+com/teecon/microservice/consumer/controller/MoviewController.class

@@ -1,0 +1,15 @@
+server:
+  port: 8850
+spring:
+  application:
+    name: microservice-file-upload
+  http:
+    multipart:
+      max-file-size: 20Mb
+      max-request-size: 25Mb
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8671/eureka/
+  instance:
+    prefer-ip-address: true

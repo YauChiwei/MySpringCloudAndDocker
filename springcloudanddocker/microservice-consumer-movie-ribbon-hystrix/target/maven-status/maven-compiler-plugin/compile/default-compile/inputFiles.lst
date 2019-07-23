@@ -1,0 +1,4 @@
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-ribbon-hystrix/src/main/java/com/teecon/microservice/consumer/exception/MyBusinessException.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-ribbon-hystrix/src/main/java/com/teecon/microservice/consumer/pojo/User.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-ribbon-hystrix/src/main/java/com/teecon/microservice/consumer/ConsumerMovieHystrixApplication.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-ribbon-hystrix/src/main/java/com/teecon/microservice/consumer/controller/MoviewController.java

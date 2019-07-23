@@ -1,0 +1,12 @@
+server:
+  port: 8601
+eureka:
+  client:
+    registerWithEureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8671/eureka
+  instance:
+    prefer-ip-address: true
+spring:
+  application:
+    name: microservice-consumer-movie

@@ -1,0 +1,7 @@
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-feign-hystrix-fallback/src/main/java/com/teecon/microservice/consumer/service/UserFeignFallbackClient.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-feign-hystrix-fallback/src/main/java/com/teecon/microservice/consumer/service/FeignClientFallbackFactory.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-feign-hystrix-fallback/src/main/java/com/teecon/microservice/consumer/service/UserFeignClient.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-feign-hystrix-fallback/src/main/java/com/teecon/microservice/consumer/ConsumerMovieFeignHystrixFallbackApplication.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-feign-hystrix-fallback/src/main/java/com/teecon/microservice/consumer/pojo/User.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-feign-hystrix-fallback/src/main/java/com/teecon/microservice/consumer/service/FeignClientFallback.java
+/Users/mac/IdeaProjects/SpringCloudAndDocker/springcloudanddocker/microservice-consumer-movie-feign-hystrix-fallback/src/main/java/com/teecon/microservice/consumer/controller/MovieController.java

@@ -1,0 +1,4 @@
+com/teecon/microservice/controller/UserController.class
+com/teecon/microservice/dao/UserRepository.class
+com/teecon/microservice/model/User.class
+com/teecon/microservice/ProviderUserApplication.class

@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: microservice-gateway-zuul-aggregation
+server:
+  port: 8904
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8671/eureka
+management:
+  endpoints:
+    web:
+      exposure:
+        include: routes,filters

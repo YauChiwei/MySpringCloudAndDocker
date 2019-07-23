@@ -1,0 +1,4 @@
+com/teecon/microservice/consumer/controller/MovieController.class
+com/teecon/microservice/consumer/service/UserFeignClient.class
+com/teecon/microservice/consumer/pojo/User.class
+com/teecon/microservice/consumer/ConsumerMoviewApplicationFeign.class

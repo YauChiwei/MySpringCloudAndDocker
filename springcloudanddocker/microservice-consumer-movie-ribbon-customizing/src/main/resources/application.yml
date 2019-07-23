@@ -1,0 +1,9 @@
+server:
+  port: 8704
+spring:
+  application:
+    name: microservice-consumer-movie-ribbon-customizing
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8671/eureka/
